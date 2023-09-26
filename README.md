@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 # 💫 About Me:
-BCA Student
+BCA Student<br>
 I'm Currently Learning Tactics of Coding.<br><br>
 
 
