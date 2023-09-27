@@ -2,7 +2,7 @@
 - 👀 I’m interested to become a dev...
 - 🌱 I’m currently learning tactics
 - 💞️ I’m looking to collaborate on for good developing
-- 📫 How to reach me @__rrgs_ or @raviraghavend12
+- 📫 How to reach me [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rrgs_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raviraghavend12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ @raviraghavend12)  
 
 # 💫 About Me:
 BCA Student<br>
