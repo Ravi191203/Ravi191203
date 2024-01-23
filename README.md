@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__rrgs_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raviraghavend12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/raviraghavend12) [![Website](![Static Badge](https://img.shields.io/badge/Website-black?style=flat&link=https%3A%2F%2Fsites.google.com%2Fview%2Frrgscsstudent%3Fusp%3Dsharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__rrgs_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raviraghavend12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/raviraghavend12) ![Static Badge](https://img.shields.io/badge/Website--https%3A%2F%2Fsites.google.com%2Fview%2Frrgscsstudent%3Fusp%3Dsharing--black?style=plastic&logo=Website&link=https%3A%2F%2Fsites.google.com%2Fview%2Frrgscsstudent%3Fusp%3Dsharing)
+
+
 )](https://sites.google.com/view/rrgscsstudent?usp=sharing)
 
 # 💻 Tech Stack:
