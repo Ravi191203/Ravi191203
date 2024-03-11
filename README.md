@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-- I love creating new things ⚡<br>- Turning imagination into reality 🚀<br>- 👋 Hi, I’m @Ravi191203<br>- 👀 I’m interested to become a dev...<br>- 🌱 I’m currently learning tactics<br>- 💞️ I’m looking to collaborate on for good developing<br>- 📫 How to reach me [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rrgs_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raviraghavend12)  ![Static Badge](https://img.shields.io/badge/Email-purple?logo=Website&link=raviraghavendrags%40gmail.com)raviraghavendrags@gmail.com
+<br>- I love creating new things ⚡<br>- Turning imagination into reality 🚀<br>- 👋 Hi, I’m @Ravi191203<br>- 👀 I’m interested to become a dev...<br>- 🌱 I’m currently learning tactics<br>- 💞️ I’m looking to collaborate on for good developing<br>- 📫 How to reach me [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rrgs_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@raviraghavend12)  ![Static Badge](https://img.shields.io/badge/Email-purple?logo=Website&link=raviraghavendrags%40gmail.com)raviraghavendrags@gmail.com
 
 
 
