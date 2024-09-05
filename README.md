@@ -1,6 +1,18 @@
-# 💫 About Me:
+# 💫 About Me
+- 🙋‍♂️ All about me is at **[My Website](https://rrgs-portfolio.vercel.app/)**
+  
+- 🔭 I’m currently working on `Something Intresting`.
 
-- I love creating new things ⚡<br>- Turning imagination into reality 🚀<br>- 👋 Hi, I’m @Ravi191203<br>- 👀 I’m interested to become a dev...<br>- 🌱 I’m currently learning tactics<br>- 💞️ I’m looking to collaborate with Dev<br>
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
 
 
 ## 🌐 Socials:
