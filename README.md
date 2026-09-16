@@ -1,49 +1,92 @@
-## 💫 About Me
+<p align="center">
+  <img src="./banner.svg" alt="Ravi Raghavendra G S — OSS Adaptation and Telecom PM" width="100%"/>
+</p>
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<p align="center">
+  <a href="https://rrgs-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e1a22?style=flat-square&logo=vercel&logoColor=ffb020" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ravi-raghavendra-g-s-8188452a9"><img src="https://img.shields.io/badge/LinkedIn-0e1a22?style=flat-square&logo=linkedin&logoColor=8b7cff" alt="LinkedIn"/></a>
+  <a href="https://x.com/raviraghavend12"><img src="https://img.shields.io/badge/X-0e1a22?style=flat-square&logo=x&logoColor=f6efe4" alt="X"/></a>
+  <a href="https://codepen.io/Ravi191203"><img src="https://img.shields.io/badge/CodePen-0e1a22?style=flat-square&logo=codepen&logoColor=f6efe4" alt="CodePen"/></a>
+</p>
 
-- 🙋‍♂️ All about me is at **[My Website](https://rrgs-portfolio.vercel.app/)**
-  
-- 🔭 I’m currently working on `Something Intresting`.
+### Software Developer · OSS Adaptation · Telecom PM
 
-- 🌱 I’m currently learning `MERN Stack`
+I work where vendor equipment meets the OSS. Most days that means **adaptation development** — taking noisy performance files, mapping them cleanly, and making sure the network can actually be measured.
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+```text
+  vendor PM  →  adaptation  →  OSS / Ignite  →  KPIs you can trust
+  xml · csv      mapping         store            dashboards
+```
 
-- 🤔 I’m looking for help with `Competitive Programming`
+## Now
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 🛰️ Building **Performance Management adaptations** and OSS integrations in the telecom domain
+- 🧩 Mapping counters, reconciling vendor quirks, and keeping the PM path honest
+- ⚡ Using **Python**, **Java**, and **Apache Ignite** when the data needs to move fast
+- 🛠️ Shipping public tools on the side — file converters, web utilities, and small products
+- 🎮 When the counters are quiet, I'm either building something or in a game
 
-- ⚡ Fun fact: I waste most of my time playing games
+## Toolkit
 
+**Domain**
 
+![OSS](https://img.shields.io/badge/OSS-1a1230?style=for-the-badge)
+![PM](https://img.shields.io/badge/Performance%20Management-1a1230?style=for-the-badge)
+![Adaptation](https://img.shields.io/badge/Adaptation%20Dev-1a1230?style=for-the-badge)
+![FCAPS](https://img.shields.io/badge/FCAPS-1a1230?style=for-the-badge)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rrgs003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@raviraghavend12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ravi191203) 
+**Languages & data**
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Ignite](https://img.shields.io/badge/Apache%20Ignite-113327?style=for-the-badge&logo=apache&logoColor=white)
 
+**Everyday**
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ravi191203&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravi191203&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi191203&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ravi191203&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+## Public builds
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+A few things you can actually click — not the production OSS work.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ravi191203&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Project | Why it exists |
+| --- | --- |
+| [BeyondCompare](https://github.com/Ravi191203/BeyondCompare) | Side-by-side comparison UI, live at [beyond-compare.vercel.app](https://beyond-compare.vercel.app) |
+| [json-excel](https://github.com/Ravi191203/json-excel) | Fast JSON ↔ spreadsheet conversion when files get messy |
+| [RAG-ChatBot](https://github.com/Ravi191203/RAG-ChatBot) | Retrieval-augmented chat experiments |
+| [Dairy Serve](https://github.com/Ravi191203/DAIRY-SERVE-MANAGEMENT-SYSTEM) | Full-stack ops app — HTML/JS front, PHP + MySQL back |
+| [100 JS projects](https://github.com/Ravi191203/100-days-100-JS-projects-challenge) | Daily reps. The unglamorous way to get faster |
 
----
-[![](https://visitcount.itsvg.in/api?id=Ravi191203&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/Ravi191203/BeyondCompare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi191203&repo=BeyondCompare&bg_color=140c1f&title_color=ffb020&icon_color=8b7cff&text_color=e8e0d4&hide_border=true" alt="BeyondCompare"/>
+  </a>
+  <a href="https://github.com/Ravi191203/json-excel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi191203&repo=json-excel&bg_color=140c1f&title_color=ffb020&icon_color=8b7cff&text_color=e8e0d4&hide_border=true" alt="json-excel"/>
+  </a>
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raviraghavendrags@apl) 
+## Pulse
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravi191203&show_icons=true&include_all_commits=true&count_private=true&bg_color=140c1f&title_color=ffb020&icon_color=8b7cff&text_color=e8e0d4&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi191203&layout=compact&langs_count=6&bg_color=140c1f&title_color=ffb020&text_color=e8e0d4&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ravi191203&background=140c1f&ring=ffb020&fire=ffb020&currStreakLabel=8b7cff&sideLabels=e8e0d4&dates=9aa6bf&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <i>If a PM file, an adaptation, or a stubborn KPI map is on your desk — that's my kind of problem.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravi191203&label=profile%20views&color=8b7cff&style=flat-square" alt="Profile views"/>
+</p>

@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ravi Raghavendra G S  OSS Adaptation &amp; Telecom PM</title>
+  <desc id="desc">GitHub profile banner for a software developer working on telecom OSS adaptation and performance management.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140c1f"/>
+      <stop offset="55%" stop-color="#1a1230"/>
+      <stop offset="100%" stop-color="#0e1a22"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffb020" stop-opacity="0.0"/>
+      <stop offset="50%" stop-color="#ffb020" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8b7cff" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ffd56a"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .name { font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-size: 36px; font-weight: 700; fill: #f6efe4; letter-spacing: 0.4px; }
+      .role { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; fill: #ffb020; }
+      .role-item { animation: cycle 10s infinite; opacity: 0; }
+      .role-item:nth-child(1) { animation-delay: 0s; }
+      .role-item:nth-child(2) { animation-delay: 2.5s; }
+      .role-item:nth-child(3) { animation-delay: 5s; }
+      .role-item:nth-child(4) { animation-delay: 7.5s; }
+      .muted { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #9aa6bf; letter-spacing: 3.2px; }
+      .chip-bg { fill: #241833; stroke: #3d2f55; stroke-width: 1; }
+      .chip { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #d7cce8; }
+      .fcaps { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #7f8aa3; }
+      .fcaps-hot { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #140c1f; }
+      .kpi { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; fill: #8f97ad; }
+      .hex { fill: none; stroke: #3a2a58; stroke-width: 1.2; }
+      .hex-hot { fill: rgba(255,176,32,0.12); stroke: #ffb020; stroke-width: 1.4; }
+      .pulse-ring { fill: none; stroke: #ffb020; stroke-width: 1.5; opacity: 0.7; animation: ripple 3.2s ease-out infinite; }
+      .bar { transform-box: fill-box; transform-origin: 50% 100%; animation: rise 2.8s ease-in-out infinite; }
+      .bar:nth-child(1) { animation-delay: 0s; }
+      .bar:nth-child(2) { animation-delay: 0.25s; }
+      .bar:nth-child(3) { animation-delay: 0.5s; }
+      .bar:nth-child(4) { animation-delay: 0.75s; }
+      .bar:nth-child(5) { animation-delay: 1s; }
+      .bar:nth-child(6) { animation-delay: 1.25s; }
+      .grid-line { stroke: #2a2140; stroke-width: 0.6; opacity: 0.45; }
+      @keyframes cycle {
+        0% { opacity: 0; }
+        6% { opacity: 1; }
+        22% { opacity: 1; }
+        28% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      @keyframes rise {
+        0%, 100% { transform: scaleY(0.55); opacity: 0.7; }
+        50% { transform: scaleY(1); opacity: 1; }
+      }
+      @keyframes ripple {
+        0% { r: 10; opacity: 0.55; }
+        100% { r: 36; opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1100" height="340" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1098" height="338" rx="21" fill="none" stroke="#3a2d55" stroke-width="1.2"/>
+
+  <g opacity="0.55">
+    <line class="grid-line" x1="40" y1="40" x2="40" y2="300"/>
+    <line class="grid-line" x1="70" y1="40" x2="70" y2="300"/>
+    <line class="grid-line" x1="100" y1="40" x2="100" y2="300"/>
+    <line class="grid-line" x1="130" y1="40" x2="130" y2="300"/>
+    <line class="grid-line" x1="160" y1="40" x2="160" y2="300"/>
+    <line class="grid-line" x1="190" y1="40" x2="190" y2="300"/>
+    <line class="grid-line" x1="18" y1="250" x2="220" y2="250"/>
+    <line class="grid-line" x1="18" y1="210" x2="220" y2="210"/>
+    <line class="grid-line" x1="18" y1="170" x2="220" y2="170"/>
+    <line class="grid-line" x1="18" y1="130" x2="220" y2="130"/>
+  </g>
+
+  <circle cx="980" cy="70" r="70" fill="#ffb020" opacity="0.06" filter="url(#soft)"/>
+  <circle cx="250" cy="280" r="90" fill="#8b7cff" opacity="0.07" filter="url(#soft)"/>
+
+  <g transform="translate(36, 92)">
+    <text class="kpi" x="0" y="-18">PM SIGNAL</text>
+    <g class="bar"><rect x="0" y="78" width="16" height="70" rx="4" fill="url(#bar)" opacity="0.85"/></g>
+    <g class="bar"><rect x="26" y="48" width="16" height="100" rx="4" fill="url(#bar)" opacity="0.9"/></g>
+    <g class="bar"><rect x="52" y="64" width="16" height="84" rx="4" fill="#8b7cff" opacity="0.85"/></g>
+    <g class="bar"><rect x="78" y="28" width="16" height="120" rx="4" fill="url(#bar)"/></g>
+    <g class="bar"><rect x="104" y="56" width="16" height="92" rx="4" fill="#c9b4ff" opacity="0.9"/></g>
+    <g class="bar"><rect x="130" y="40" width="16" height="108" rx="4" fill="url(#bar)"/></g>
+    <text class="kpi" x="0" y="168">vendor files in · clean KPIs out</text>
+  </g>
+
+  <g transform="translate(250, 58)">
+    <text class="muted" x="0" y="0">SOFTWARE DEVELOPER  ·  TCS</text>
+    <text class="name" x="0" y="48">Ravi Raghavendra G S</text>
+    <g transform="translate(0, 78)">
+      <text class="role role-item" x="0" y="0">&gt; Adaptation developer for telecom OSS</text>
+      <text class="role role-item" x="0" y="0">&gt; Performance Management engineer</text>
+      <text class="role role-item" x="0" y="0">&gt; Turning counters into network insight</text>
+      <text class="role role-item" x="0" y="0">&gt; Building tools when the pipeline is quiet</text>
+    </g>
+    <rect x="0" y="108" width="420" height="2" fill="url(#glow)"/>
+    <text class="muted" x="0" y="138" style="letter-spacing:4px;">ADAPT  ·  INTEGRATE  ·  MEASURE  ·  SHIP</text>
+
+    <g transform="translate(0, 168)">
+      <g>
+        <rect class="chip-bg" x="0" y="0" width="86" height="28" rx="14"/>
+        <text class="chip" x="43" y="19" text-anchor="middle">Python</text>
+      </g>
+      <g transform="translate(96,0)">
+        <rect class="chip-bg" x="0" y="0" width="70" height="28" rx="14"/>
+        <text class="chip" x="35" y="19" text-anchor="middle">Java</text>
+      </g>
+      <g transform="translate(176,0)">
+        <rect class="chip-bg" x="0" y="0" width="118" height="28" rx="14"/>
+        <text class="chip" x="59" y="19" text-anchor="middle">Apache Ignite</text>
+      </g>
+      <g transform="translate(304,0)">
+        <rect class="chip-bg" x="0" y="0" width="58" height="28" rx="14"/>
+        <text class="chip" x="29" y="19" text-anchor="middle">SQL</text>
+      </g>
+      <g transform="translate(372,0)">
+        <rect class="chip-bg" x="0" y="0" width="70" height="28" rx="14"/>
+        <text class="chip" x="35" y="19" text-anchor="middle">Linux</text>
+      </g>
+      <g transform="translate(452,0)">
+        <rect class="chip-bg" x="0" y="0" width="52" height="28" rx="14"/>
+        <text class="chip" x="26" y="19" text-anchor="middle">Git</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(820, 58)">
+    <polygon class="hex" points="90,18 128,40 128,84 90,106 52,84 52,40"/>
+    <polygon class="hex-hot" points="90,40 112,53 112,79 90,92 68,79 68,53"/>
+    <circle class="pulse-ring" cx="90" cy="66" r="10"/>
+    <circle cx="90" cy="66" r="5" fill="#ffb020"/>
+    <text class="kpi" x="90" y="128" text-anchor="middle">FCAPS FOCUS</text>
+
+    <g transform="translate(-18, 148)">
+      <rect x="0" y="0" width="36" height="36" rx="8" fill="#241833" stroke="#3d2f55"/>
+      <text class="fcaps" x="18" y="23" text-anchor="middle">F</text>
+      <rect x="42" y="0" width="36" height="36" rx="8" fill="#241833" stroke="#3d2f55"/>
+      <text class="fcaps" x="60" y="23" text-anchor="middle">C</text>
+      <rect x="84" y="0" width="36" height="36" rx="8" fill="#241833" stroke="#3d2f55"/>
+      <text class="fcaps" x="102" y="23" text-anchor="middle">A</text>
+      <rect x="126" y="0" width="36" height="36" rx="8" fill="#ffb020"/>
+      <text class="fcaps-hot" x="144" y="23" text-anchor="middle">P</text>
+      <rect x="168" y="0" width="36" height="36" rx="8" fill="#241833" stroke="#3d2f55"/>
+      <text class="fcaps" x="186" y="23" text-anchor="middle">S</text>
+    </g>
+    <text class="kpi" x="90" y="248" text-anchor="middle">Performance lives here</text>
+  </g>
+</svg>
