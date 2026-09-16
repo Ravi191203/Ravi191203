@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Ravi Raghavendra G S — OSS Adaptation and Telecom PM" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ravi191203/Ravi191203/main/banner.svg?v=2" alt="Ravi Raghavendra G S - OSS Adaptation and Telecom PM" width="100%"/>
 </p>
 
 <p align="center">
